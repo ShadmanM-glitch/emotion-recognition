@@ -4,7 +4,7 @@ CONTENTS OF THIS FILE
  * Dependencies
  * GitLab link
 
-# Note: Sample images that have been used for testing are supplied in the zip folder as well
+# Note: Some sample images have been provided
 
 Overview
 ------------
