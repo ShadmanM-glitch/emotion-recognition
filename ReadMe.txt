@@ -11,7 +11,7 @@ Overview
 
 Project    :        Emotion recognition filter 
 Authors    :        Shadman Mahmood
-Constraints:        Side profile emotions cannot be detected. OpenCV constraints on detecting certain faces.
+Constraints:        Certain side profile emotions cannot be detected. OpenCV constraints on detecting certain faces.
 Output     :        Produces detected emotion as a caption on the image which is saved as a new file savedImg.jpg
 Bugs-fixed :        OpenCV can only detect certain left-sided profiles so images as flipped if they are right sided to perform detection, 
                     slightly tilted faces can now be used in the program to detect emotion. Check sample(happyside1.png,happyside2.png,sad2.png)
